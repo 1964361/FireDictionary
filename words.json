@@ -1,0 +1,33 @@
+[
+  {
+    "word": "hello",
+    "part_of_speech": "interjection",
+    "definition": "Used as a greeting or to begin a conversation.",
+    "pronunciation": "həˈloʊ"
+  },
+  {
+    "word": "world",
+    "part_of_speech": "noun",
+    "definition": "The earth, together with all of its countries, peoples, and natural features.",
+    "pronunciation": "wɜrld"
+  },
+  {
+    "word": "apple",
+    "part_of_speech": "noun",
+    "definition": "The round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh.",
+    "pronunciation": "ˈæpəl"
+  },
+  {
+    "word": "happy",
+    "part_of_speech": "adjective",
+    "definition": "Feeling or showing pleasure or contentment.",
+    "pronunciation": "ˈhæpi"
+  },
+  {
+    "word": "computer",
+    "part_of_speech": "noun",
+    "definition": "An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+    "pronunciation": "kəmˈpjuːtər"
+  }
+  // Add more words here...
+]
