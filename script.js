@@ -34,7 +34,6 @@ async function searchWord() {
       resultElement.innerHTML = '<h2>' + entry.word + '</h2>';
       resultElement.innerHTML += '<p><strong>Part of Speech:</strong> ' + entry.part_of_speech + '</p>';
       resultElement.innerHTML += '<p><strong>Definition:</strong> ' + entry.definition + '</p>';
-      resultElement.innerHTML += '<p><strong>Pronunciation:</strong> ' + entry.pronunciation + '</p>';
       
       const synonyms = findSynonyms(entry.definition);
       if (synonyms.length > 0) {
